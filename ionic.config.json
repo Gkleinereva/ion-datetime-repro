@@ -1,0 +1,8 @@
+{
+  "name": "IonDatetimeRepro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "77ebb5e7"
+}
